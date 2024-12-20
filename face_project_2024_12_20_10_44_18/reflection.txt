@@ -1,0 +1,2 @@
+I calculated the each data and changed a little bit to fulfill my thought. 
+The task is easier than I thought, because after creating a set of data, I can use the new data to calculate the rest of them. 

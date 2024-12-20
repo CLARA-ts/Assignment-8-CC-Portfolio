@@ -1,0 +1,16 @@
+"It is a really cute watch, the dial is mechanical, and it's pink color whitch have some kitty pattern."
+
+fill pink
+draw a half circle on top
+draw a rect under
+draw a half circle below
+draw a circle in the middle 
+draw a circle (smaller)
+push()
+draw a rect()
+draw another rect()&rotate()
+pop()
+
+I want to rotate the rectangle by(200,200)but I failed to do that.
+I give up the hello kitty part after creating a few arcs. 
+It is too hard for me. 

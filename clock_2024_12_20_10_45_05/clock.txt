@@ -1,0 +1,5 @@
+My experimental clock tracks time by the form of progress bar, so people can notice how much time they have used.
+
+I thought of imitating a real mechanic clock, using a circle to move forward, and this one. I think this one is clear to read and feel how time goes by.
+
+I learned how to count seconds using deltaTime, and how to use text().
